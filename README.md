@@ -1,6 +1,6 @@
 # Social Network Analysis
 
-<img width = "400" src="https://github.com/victoria-yang/social-network-analysis/blob/master/best_friends.png">
+<img width = "400" src="https://github.com/victoria-yang/SNA-project/blob/master/best_friends.png">
 
 ### Description
 The purpose of this project is to generate and analyze three social networks.
@@ -26,7 +26,9 @@ install.packages("igraph")
 ```
 
 ## Procedure
-
+* Visualize the Networks by using *igraph* package
+* Centrality Measures
+* Find out who in the class has the highest closeness centrality
 
 
 
